@@ -1,4 +1,4 @@
-# qr-code-wrapper
+# QR Code Wrapper
 
 A simple QR Code Wrapper using Google's Chart API
 

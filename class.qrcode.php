@@ -20,7 +20,7 @@
  * SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
  */
 
-	class qrCode{
+	class qrcode{
 	
 		public $url;
 		public $size;
